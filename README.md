@@ -1,7 +1,6 @@
 # Clustering-of-Data-
 """
-Author: [Itumeleng]  
-Student Number: [41905083]  
+Author: [Itumeleng]   
 """
 import numpy as np
 import matplotlib.pyplot as plt
